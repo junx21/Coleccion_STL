@@ -8,4 +8,6 @@ namespace Ciencia {
     }
 }
 
+void EJ4();
+
 #endif // CIENCIA_H

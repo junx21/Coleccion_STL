@@ -3,6 +3,7 @@
  Luego, desde la función main, utiliza estas funciones.*/
 
 #include "Matematicas.h"
+#include <iostream>
 
 
 namespace Matematicas {
@@ -12,4 +13,11 @@ namespace Matematicas {
     int resta(int a, int b) {
         return a - b;
     }
+}
+
+void EJ1() {
+
+    std::cout << "\nEjercicio 1\n" << std::endl;
+    std::cout << "Suma: " << Matematicas::suma(5, 3) << std::endl;
+    std::cout << "Resta: " << Matematicas::resta(5, 3) << std::endl;
 }

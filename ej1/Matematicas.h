@@ -9,6 +9,7 @@ namespace Matematicas {
     int resta(int a, int b);
 }
 
+void EJ1();
 
 
 #endif //MATEMATICAS_H

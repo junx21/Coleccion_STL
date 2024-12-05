@@ -2,11 +2,7 @@
 #define STL_H
 
 
-
-class STL {
-
-};
-
+void EJ5();
 
 
 #endif //STL_H

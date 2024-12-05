@@ -1,3 +1,7 @@
+/*Ejercicio 3: Relación entre clase y espacio de nombres Define una clase "Círculo"
+ dentro de un espacio de nombres "Geometría". Incluye al menos dos métodos en esta clase,
+ como "calcularArea" y "calcularPerímetro". Utiliza esta clase desde la función main.*/
+
 #include "Clase_Espacio.h"
 #include <iostream>
 

@@ -12,4 +12,6 @@ namespace Geometria {
     };
 }
 
+void EJ3();
+
 #endif // GEOMETRIA_H
